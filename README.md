@@ -1,5 +1,5 @@
 # GIT DEMO
 
-This is a git demo file. 
+This file should create on conflict.
 
 Adding a new line.
